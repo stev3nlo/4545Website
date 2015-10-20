@@ -3,6 +3,25 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+.globe-img{
+    width: 55px;
+    height: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.butterfly-img{
+    width: 75px;
+    height: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    color:white;
+    font-family: Sans-serif;
+    font-weight: 600;
+}
 
 html,
 body {
@@ -544,28 +563,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
-.globe-img{
-    width: 55px;
-    height: 55px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.butterfly-img{
-    width: 75px;
-    height: 55px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.name {
-    color:white;
-    font-family: Sans-serif;
-    font-weight: 600;
-}
-
-
-
-
-
-
 

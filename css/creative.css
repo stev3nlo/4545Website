@@ -3,6 +3,10 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+.modal{
+    color: #63c845;
+}
+
 .globe-img{
     width: 55px;
     height: 55px;
@@ -209,7 +213,19 @@ header {
 header.index {
     background-image: url(../img/header.jpg);
 }
+header.history {
+    background-image: url(../img/header-default.jpg);
+}
+
+header.about {
+    background-image: url(../img/team1.jpg);
+}
+
 header.outreach {
+    background-image: url(../img/header-default.jpg);
+}
+
+header.robot {
     background-image: url(../img/header-default.jpg);
 }
 

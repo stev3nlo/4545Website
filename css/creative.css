@@ -48,6 +48,11 @@ hr.light {
     min-width: 50px;
 }
 
+hr.dark {
+    border-color: black;
+    min-width:50px;
+}
+
 a {
     color: #63c845;
     -webkit-transition: all .35s;
@@ -222,7 +227,7 @@ header.about {
 }
 
 header.outreach {
-    background-image: url(../img/header-default.jpg);
+    background-image: url(../img/header-outreach.jpg);
 }
 
 header.robot {

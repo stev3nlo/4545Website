@@ -8,6 +8,7 @@
 }
 
 .globe-img{
+    background-image: url(../GridEarthProjectIcon.PNG);
     width: 55px;
     height: 55px;
     margin-left: auto;
@@ -223,7 +224,7 @@ header.history {
 }
 
 header.about {
-    background-image: url(../img/team1.jpg);
+    background-image: url(../img/team1-min.jpg);
 }
 
 header.outreach {
